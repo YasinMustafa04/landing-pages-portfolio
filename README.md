@@ -1,103 +1,69 @@
-🚀 Landing Pages Portfolio
-A Collection of 6 Modern Web Design Projects
+<div align="center">
 
-A portfolio of six landing page projects built with PHP, HTML5, CSS3, and JavaScript. Each project features a unique design and layout, focusing on modern aesthetics, responsive interfaces, and user experience.
+# 🚀 Landing Pages Portfolio
 
-🛠️ Technologies
+  <p><strong>A curated collection of 6 modern, high-performance web design and landing page projects.</strong></p>
 
-!PHP !HTML5 !CSS3 !JavaScript !Bootstrap !Git
+  <p>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  </p>
 
-📂 Projects
-#	Project	Description
-01	Luxury Restaurant	Premium fine dining restaurant website
-02	Restaurant Landing	Modern restaurant landing page
-03	Furniture Landing	Furniture and interior design website
-04	Restaurant Menu	Restaurant menu presentation
-05	Food Menu	Interactive food menu landing page
-06	Restaurant	Restaurant website design
-📁 Project Structure
-text
+  <p>
+    <a href="#-projects">Projects</a> •
+    <a href="#-getting-started">Getting Started</a> •
+    <a href="#-project-structure">Structure</a> •
+    <a href="#-features">Features</a> •
+    <a href="#-author">Author</a>
+  </p>
+</div>
+
+---
+
+## 📌 About The Project
+
+This repository houses a comprehensive showcase of **six distinct landing page and web application layouts**, built from scratch with a strong emphasis on modern UI/UX aesthetics, fully responsive design, and seamless user interaction. Each project is tailored for commercial use cases—primarily high-end dining, hospitality, and interior design sectors.
+
+---
+
+## 📂 Projects Overview
+
+| # | Project Name | Description & Focus | Key File |
+|:---:|---|---|---|
+| **01** | **Luxury Restaurant** | Premium fine dining experience with immersive visuals and elegant typography | `luxury-restaurant.php` |
+| **02** | **Restaurant Landing** | Modern corporate restaurant landing page with dynamic call-to-actions | `restaurant-landing.php` |
+| **03** | **Furniture Landing** | Sleek e-commerce & showcase layout for interior design and furniture | `furniture-landing.php` |
+| **04** | **Restaurant Menu** | Structured culinary presentation with categorized food options | `restaurant-menu.php` |
+| **05** | **Food Menu** | Interactive digital menu landing page designed for engagement | `food-menu.php` |
+| **06** | **Restaurant Classic** | Clean, versatile, and traditional restaurant web design layout | `restaurant.php` |
+
+---
+
+## 🗂️ Project Structure
+
+```text
 landing-pages-portfolio/
 │
 ├── css/
-│   └── style.css
+│   └── style.css            # Centralized stylesheet & design system
 │
 ├── images/
-│   ├── about.jpg
-│   ├── contact.jpg
-│   ├── gallery1.jpg
-│   ├── gallery2.jpg
-│   └── ...
+│   ├── about.jpg            # About section imagery
+│   ├── contact.jpg          # Contact section background/assets
+│   ├── gallery1.jpg         # Gallery asset 1
+│   ├── gallery2.jpg         # Gallery asset 2
+│   └── ...                  # Additional project media
 │
-├── luxury-restaurant.php
-├── restaurant-landing.php
-├── furniture-landing.php
-├── restaurant-menu.php
-├── food-menu.php
-├── restaurant.php
+├── luxury-restaurant.php    # Project 01
+├── restaurant-landing.php   # Project 02
+├── furniture-landing.php    # Project 03
+├── restaurant-menu.php      # Project 04
+├── food-menu.php            # Project 05
+├── restaurant.php           # Project 06
 │
-├── .gitignore
-└── README.md
-
-💻 Getting Started
-
-These projects are designed to run locally using WAMP Server.
-
-Requirements
-Windows
-WAMP Server
-A web browser
-Git (optional, for cloning)
-Installation
-
-1. Clone the repository
-
-bash
-git clone https://github.com/YasinMustafa04/landing-pages-portfolio.git
-
-
-2. Move the project
-
-Copy or move the downloaded landing-pages-portfolio folder into your WAMP www directory.
-
-Example:
-
-text
-C:\wamp64\www\landing-pages-portfolio
-
-
-3. Start WAMP Server
-
-Launch WAMP Server.
-Make sure Apache is running.
-Wait until the WAMP icon turns green.
-
-4. Open a project
-
-Open your browser and visit:
-
-text
-http://localhost/landing-pages-portfolio/luxury-restaurant.php
-
-
-To view another project, replace the PHP filename in the URL.
-
-✨ Features
-Six independent landing page projects.
-Modern and visually appealing layouts.
-Responsive web interfaces.
-Interactive JavaScript elements.
-PHP-based page rendering.
-Organized CSS and image assets.
-Local development with WAMP Server.
-👨‍💻 Author
-
-Yasin Mustafa
-
-GitHub: @YasinMustafa04
-
-Repository: Landing Pages Portfolio
-
-<p align="center">
-Made with ❤️ by Yasin Mustafa
-</p>
+├── .gitignore               # Git ignore rules
+└── README.md                # Project documentation
