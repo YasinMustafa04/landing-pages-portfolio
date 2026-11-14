@@ -1,138 +1,103 @@
-Landing Pages Portfolio
+🚀 Landing Pages Portfolio
+A Collection of 6 Modern Web Design Projects
 
+A portfolio of six landing page projects built with PHP, HTML5, CSS3, and JavaScript. Each project features a unique design and layout, focusing on modern aesthetics, responsive interfaces, and user experience.
 
+🛠️ Technologies
 
-A collection of 7 landing page projects developed using PHP, HTML5, CSS3, and JavaScript.
+!PHP !HTML5 !CSS3 !JavaScript !Bootstrap !Git
 
-
-
-About the Project
-
-
-
-This repository contains a collection of landing pages created as web development projects. Each page has its own design, layout, and functionality, focusing on responsive design and modern user experience.
-
-
-
-Projects
-
-Project	Description
-
-Luxury Restaurant	Premium restaurant landing page
-
-Restaurant Landing	Restaurant website landing page
-
-Furniture Landing	Furniture website landing page
-
-Restaurant Menu	Restaurant menu page
-
-Food Menu	Food menu landing page
-
-Restaurant	Restaurant website
-
-Yaprak Doner	Restaurant landing page
-
-Technologies Used
-
-PHP
-
-HTML5
-
-CSS3
-
-JavaScript
-
-Bootstrap
-
-Git \& GitHub
-
-Project Structure
-
+📂 Projects
+#	Project	Description
+01	Luxury Restaurant	Premium fine dining restaurant website
+02	Restaurant Landing	Modern restaurant landing page
+03	Furniture Landing	Furniture and interior design website
+04	Restaurant Menu	Restaurant menu presentation
+05	Food Menu	Interactive food menu landing page
+06	Restaurant	Restaurant website design
+📁 Project Structure
 text
-
 landing-pages-portfolio/
-
 │
-
 ├── css/
-
 │   └── style.css
-
 │
-
 ├── images/
-
 │   ├── about.jpg
-
 │   ├── contact.jpg
-
 │   ├── gallery1.jpg
-
+│   ├── gallery2.jpg
 │   └── ...
-
 │
-
 ├── luxury-restaurant.php
-
 ├── restaurant-landing.php
-
 ├── furniture-landing.php
-
 ├── restaurant-menu.php
-
 ├── food-menu.php
-
 ├── restaurant.php
-
-├── yaprakdoner.php
-
 │
-
 ├── .gitignore
-
 └── README.md
 
+💻 Getting Started
 
+These projects are designed to run locally using WAMP Server.
 
-Local Installation
+Requirements
+Windows
+WAMP Server
+A web browser
+Git (optional, for cloning)
+Installation
 
-Clone the repository:
+1. Clone the repository
 
 bash
-
 git clone https://github.com/YasinMustafa04/landing-pages-portfolio.git
 
 
+2. Move the project
 
-Move the project into your WAMP www directory.
+Copy or move the downloaded landing-pages-portfolio folder into your WAMP www directory.
 
-Start Apache using WAMP Server.
+Example:
+
+text
+C:\wamp64\www\landing-pages-portfolio
+
+
+3. Start WAMP Server
+
+Launch WAMP Server.
+Make sure Apache is running.
+Wait until the WAMP icon turns green.
+
+4. Open a project
 
 Open your browser and visit:
 
 text
-
-http://localhost/deneme/luxury-restaurant.php
-
+http://localhost/landing-pages-portfolio/luxury-restaurant.php
 
 
+To view another project, replace the PHP filename in the URL.
 
-
-Replace the filename to open another landing page.
-
-
-
-Author
-
-
+✨ Features
+Six independent landing page projects.
+Modern and visually appealing layouts.
+Responsive web interfaces.
+Interactive JavaScript elements.
+PHP-based page rendering.
+Organized CSS and image assets.
+Local development with WAMP Server.
+👨‍💻 Author
 
 Yasin Mustafa
 
-
-
 GitHub: @YasinMustafa04
 
+Repository: Landing Pages Portfolio
 
-
-Created as a web development portfolio project.
-
+<p align="center">
+Made with ❤️ by Yasin Mustafa
+</p>
