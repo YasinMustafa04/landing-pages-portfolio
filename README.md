@@ -194,7 +194,7 @@ All stock photography is sourced from royalty-free platforms such as Unsplash.
 **Yasin Mustafa**
 
 - **GitHub:** [@YasinMustafa04](https://github.com/YasinMustafa04)
-- **Brand / Studio:** YM Tech Studio
+- **Brand / Studio:** [YM Tech Studio](https://www.instagram.com/ym.techstudio/)
 
 ---
 
