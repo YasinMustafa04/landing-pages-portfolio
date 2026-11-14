@@ -14,10 +14,11 @@
   </p>
 
   <p>
-    <a href="#-projects">Projects</a> •
+    <a href="#-projects-overview">Projects</a> •
     <a href="#-getting-started">Getting Started</a> •
     <a href="#-project-structure">Structure</a> •
-    <a href="#-features">Features</a> •
+    <a href="#-key-features">Features</a> •
+    <a href="#-disclaimer">Disclaimer</a> •
     <a href="#-author">Author</a>
   </p>
 </div>
@@ -67,3 +68,60 @@ landing-pages-portfolio/
 │
 ├── .gitignore               # Git ignore rules
 └── README.md                # Project documentation
+💻 Getting Started
+The repository is configured to run locally using a local PHP environment like WAMP Server.
+
+Prerequisites
+OS: Windows
+
+Local Server: WAMP Server (or XAMPP/Laragon)
+
+Browser: Any modern web browser (Chrome, Firefox, Edge)
+
+Version Control: Git (optional)
+
+Installation & Local Setup
+Clone the repository
+
+Bash
+git clone [https://github.com/YasinMustafa04/landing-pages-portfolio.git](https://github.com/YasinMustafa04/landing-pages-portfolio.git)
+Move to your local web root
+Copy or move the landing-pages-portfolio folder directly into your WAMP www directory:
+
+Plaintext
+C:\wamp64\www\landing-pages-portfolio
+Start WAMP Server
+
+Launch WAMP Server from your desktop or start menu.
+
+Verify that the system tray icon turns Green (indicating Apache and MySQL services are fully active).
+
+Access the Projects in your Browser
+Open your browser and navigate to the root directory or load a specific project directly:
+
+Plaintext
+http://localhost/landing-pages-portfolio/luxury-restaurant.php
+(Simply swap out luxury-restaurant.php with any of the other .php files listed in the structure to explore different projects).
+
+✨ Key Features
+Modular Architecture: Clean separation of presentation, styles, and media assets.
+
+Responsive Frameworks: Built to adapt smoothly across mobile devices, tablets, and desktop screens.
+
+Interactive Elements: Enhanced UX powered by lightweight JavaScript behaviors and dynamic components.
+
+PHP Integration: Utilizes PHP files for streamlined templating and rendering control.
+
+Optimized Assets: Carefully organized CSS structure and compressed image assets for fast loading times.
+
+⚠️ Disclaimer
+Fictional Content & Portfolio Purpose Only: All brand names, restaurant titles (e.g., La Foresta, Maison Élan, Le Château Gourmet, L'Ambroisie), addresses, phone numbers, and customer testimonials featured in these projects are entirely fictional concepts created exclusively by the author for UI/UX design showcase and educational portfolio demonstration purposes. They do not represent real commercial establishments or active locations. All stock photography is sourced from royalty-free platforms (Unsplash).
+
+👨‍💻 Author
+Yasin Mustafa
+
+GitHub: @YasinMustafa04
+
+Brand/Studio: YM Tech Studio
+
+Made with ❤️ by Yasin Mustafa
