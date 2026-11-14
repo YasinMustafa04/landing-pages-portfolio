@@ -1,0 +1,19 @@
+# Windows files
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Dependencies
+vendor/
+node_modules/
